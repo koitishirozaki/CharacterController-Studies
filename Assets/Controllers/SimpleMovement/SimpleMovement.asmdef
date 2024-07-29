@@ -3,7 +3,8 @@
     "rootNamespace": "Controllers.SimpleMovement",
     "references": [
         "GUID:49aa9a5ca74a4f44690e4a4f887183f7",
-        "GUID:48c9f6afdac61634db0e0f241c7d4d51"
+        "GUID:48c9f6afdac61634db0e0f241c7d4d51",
+        "GUID:d08edf7f011bbfe47a9aa5dba05a5eef"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

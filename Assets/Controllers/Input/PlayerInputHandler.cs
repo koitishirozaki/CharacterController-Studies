@@ -17,7 +17,6 @@ namespace Controllers.Input {
 
         private void Awake() {
             input = new InputBindings();
-            // Add new actions here
             input.Player.Move.performed += onMove;
             input.Player.Move.canceled += onMove;
 
